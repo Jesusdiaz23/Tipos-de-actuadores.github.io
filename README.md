@@ -1,5 +1,5 @@
 ---
-title: "repositorio"
+title: "about"
 permalink: "/about/"
 layout: page
 ---
