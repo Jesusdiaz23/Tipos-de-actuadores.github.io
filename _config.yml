@@ -1,4 +1,4 @@
-title: "Tipos de actuadores"
+title: "Tipos de actuadores "
 author: "Blog Author"
 description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
 permalink: /:title/
@@ -11,7 +11,7 @@ date_format: "%B %d, %Y"
 show_excerpts: true        # show article excerpts on the home page
 show_frame: true           # adds a gray frame to the site
 show_sidebar: false        # show a sidebar instead of the usual header
-minimal: false             # use a dark header
+minimal: true             # use a dark header
 
 # Menu
 
@@ -30,34 +30,4 @@ comments:
 
 plugins:
  - jekyll-feed
-
----
-
-## Tipos de Actuadores en Sistemas Programables
-
-Los actuadores son dispositivos fundamentales en los sistemas automatizados y programables, como los PLC y microcontroladores. A continuación, se describen los principales tipos:
-
-1. **Actuadores Eléctricos**  
-   Estos actuadores convierten la energía eléctrica en movimiento. Ejemplos:
-   - **Motores DC**: Controlan la velocidad y el torque.
-   - **Motores Paso a Paso**: Perfectos para precisión en la posición.
-   - **Servomotores**: Utilizados para control preciso con retroalimentación.
-   
-2. **Actuadores Hidráulicos**  
-   Utilizan fluido a presión para mover grandes cargas. Ejemplos:
-   - **Cilindros Hidráulicos**: Producen movimiento lineal con gran fuerza.
-   - **Motores Hidráulicos**: Generan movimiento rotativo.
-
-3. **Actuadores Neumáticos**  
-   Emplean aire comprimido, ideales para ambientes industriales:
-   - **Cilindros Neumáticos**: Para movimientos lineales simples.
-   - **Motores Neumáticos**: Generan movimiento rotativo con aire comprimido.
-
-4. **Actuadores Piezoeléctricos**  
-   Generan movimiento mediante cambios en la estructura de materiales piezoeléctricos bajo un voltaje aplicado. Son útiles en sistemas de alta precisión.
-
-5. **Actuadores Magnetoestrictivos**  
-   Utilizan cambios en materiales magnetoestrictivos bajo un campo magnético, generando movimientos rápidos y precisos.
-
-Los actuadores se integran en sistemas de control programables para realizar tareas como control de movimiento, automatización de procesos industriales y manejo robótico.
 
