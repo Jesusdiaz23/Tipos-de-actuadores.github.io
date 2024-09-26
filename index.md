@@ -3,8 +3,6 @@ layout: page
 title: "tipos de actuadores"
 ---
 
-# Actuadores
-
 ## Actuadores Eléctricos
 
 ### Tipos
